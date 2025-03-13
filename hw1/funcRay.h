@@ -1,6 +1,7 @@
 // file: funcRay.h
 // author: Ray
+#include <stdio.h>
 
 void funcRay(void) {
-    // TODO
+    printf("this is a function implemented by Ray.");
 }
