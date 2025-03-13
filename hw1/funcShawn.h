@@ -1,6 +1,8 @@
 // file: funcShawn.h
 // author: Shawn
 
+#include <stdio.h>
+
 void funcShawn(void) {
-    // TODO
+    printf("this is funcShawn(), implemented by Shawn.\n");
 }
